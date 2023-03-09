@@ -1,0 +1,31 @@
+
+body {
+    color: #333333;
+    background-color: snow;
+   }
+   img {
+    /* float: left; */
+    margin-left: 15px;
+    border-radius: 30px;
+   }
+   h1 { text-align: center; }
+   /* h1, h2 {
+    border-bottom: 1px solid black;
+   } */
+   p {
+    /* border-left: 1px solid black; */
+    padding-left: 15px;
+   }
+   strong { font-family: 'Courier New', Courier, monospace; }
+   em {
+    font-style: italic;
+    color: rgb(114, 110, 3);
+   }
+   div{
+    font-size: 20px;
+    
+   }
+
+footer{
+    font-size: 14px; 
+}
